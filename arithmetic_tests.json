@@ -1,0 +1,5 @@
+[
+    {"construct": "arithmetic_expressions", "input": "Term + Term"},
+    {"construct": "arithmetic_expressions", "input": "Factor * Factor"},
+    {"construct": "arithmetic_expressions", "input": "Number"}
+]
