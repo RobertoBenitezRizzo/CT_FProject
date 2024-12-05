@@ -1,0 +1,11 @@
+{
+    "arithmetic_expressions": {
+        "Expression": ["Term", "Term + Term", "Term - Term"],
+        "Term": ["Factor", "Factor * Factor", "Factor / Factor"],
+        "Factor": ["Variable", "Number"]
+    },
+    "control_structures": {
+        "IfStatement": ["if (Condition) { Block }", "if (Condition) { Block } else { Block }"],
+        "Condition": ["Expression == Expression", "Expression > Expression"]
+    }
+}
